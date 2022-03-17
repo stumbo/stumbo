@@ -1,4 +1,7 @@
-### Hi there 👋
+Software architect | Software developer:   
+Experienced at delivering innovative software solutions.
+
+I'm currently working on Interlisp
 
 <!--
 **stumbo/stumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
