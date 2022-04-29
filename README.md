@@ -1,7 +1,9 @@
 Software architect | Software developer:   
 Experienced at delivering innovative software solutions.
 
-I'm currently working on Interlisp
+Currently working for [Measures For Justice](https://www.measuresforjustice.org/) or on [GitHub](https://github.com/measuresforjustice)
+
+In my sparetime I've been helping out with [Interlisp](https://interlisp.org/) and it's mission to allow new users to experience the system.
 
 <!--
 **stumbo/stumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
